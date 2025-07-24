@@ -3,10 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=blue&center=true&vCenter=true&random=false&width=435&lines=Hey+there%2C+I'm+Shakthi" />
 </h1>
 
-![Visitors](https://komarev.com/ghpvc/?username=Mshakthiswaran&color=blueorange)
-
-## Hi there 👋 I'm Shakthi
-
 Aspiring Web Developer | Frontend Enthusiast | IoT Explorer  
 <img align="right" width="270" height="180" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 <br>- 🎯 I love building creative web interfaces and solving coding challenges  <br>- 🖥️ Checkout my [Portfolio](https://portfolio-wine-one-15.vercel.app/#m)  <br>- 👨‍🏫 Conducted web development workshops (HTML, CSS, JS) for juniors  <br>- 💡 Passionate about Full Stack Java, JavaScript, and Smart Embedded Systems  <br>- 🌱 Currently learning Node.js, MongoDB, and MySQL  <br>- ⚡ Fun fact: I enjoy teaching and learning together!<br>

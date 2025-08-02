@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=blue&center=true&vCenter=true&random=false&width=435&lines=Hey+there%2C+I'm+Shakthi " />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=white&center=true&vCenter=true&random=false&width=435&lines=Hey+there%2C+I'm+Shakthi " />
 </h1>
 
 Aspiring Web Developer | Frontend Enthusiast | IoT Explorer  
